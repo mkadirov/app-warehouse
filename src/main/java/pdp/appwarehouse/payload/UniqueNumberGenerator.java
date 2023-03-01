@@ -1,6 +1,6 @@
 package pdp.appwarehouse.payload;
 
-import jakarta.persistence.SecondaryTable;
+
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

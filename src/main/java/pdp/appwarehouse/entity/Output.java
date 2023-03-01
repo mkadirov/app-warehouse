@@ -23,7 +23,7 @@ public class Output {
     private Warehouse warehouse;
 
     @ManyToOne
-    private Client clientInputProduct;
+    private Client clientId;
 
     @ManyToOne
     private Currency currency;

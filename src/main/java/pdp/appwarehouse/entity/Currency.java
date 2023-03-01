@@ -10,4 +10,5 @@ import pdp.appwarehouse.entity.template.AbsEntity;
 @Data
 @Entity
 public class Currency extends AbsEntity {
+
 }
